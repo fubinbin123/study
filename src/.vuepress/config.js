@@ -78,9 +78,7 @@ module.exports = {
               { text: '在线思维导图', link: '/zh/interface/Mind.md'},
               { text: 'Vue', link: '/zh/vue/' },
               { text: 'React', link: '/zh/react/'},
-              { text: '小程序', link: '/zh/miniapp/',items:[
-                {text:"事件传参",link:'/zh/miniapp/事件传参.md'}
-              ] },
+              { text: '小程序', link: '/zh/miniapp/' },
               { text: 'Webpack', link: '/zh/webpack/'},
               // { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
               // { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
